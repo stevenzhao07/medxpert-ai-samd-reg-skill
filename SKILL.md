@@ -109,8 +109,7 @@ medxpert-ai-samd-reg-skill/
 ├── SKILL.md
 ├── references/
 │   ├── samd-classification.md      ← SaMD分类判定（IMDRF框架）
-│   ├── gmlp-pccp-checklist.md      ← GMLP + PCCP自查清单
-│   └── deficiency-highlights.md    ← AI器械注册高发补点
+│   └── gmlp-pccp-checklist.md      ← GMLP + PCCP自查清单
 └── assets/
     └── examples/
         └── example-ai-imaging-dx.md  ← AI影像辅助诊断示例
